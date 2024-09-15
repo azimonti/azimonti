@@ -1,3 +1,7 @@
+[自己紹介はこちら](#自己紹介) | [専門能力はこちら](#専門能力) | [追加の技能はこちら](#追加の技能) 
+
+[研究および興味の分野はこちら](#研究および興味の分野) |[進行中のプロジェクトはこちら](#進行中のプロジェクト) | [連絡先はこちら](#連絡先)
+
 ## About Me
 
 I am an Aerospace Engineer with over 25 years of experience in computer programming. My expertise spans across various fields, including mathematics, physics, and engineering.
@@ -43,8 +47,61 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 |  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
 |:man_office_worker: My LinkedIn Profile | [Go to LinkedIn](https://www.linkedin.com/in/marcoazimonti/) |
+|:books: My Portfolio | [Go to my Portfolio](https://www.azimonti.com/portfolio.html) |
 | :man_technologist: My GitHub Profile | [Go to GitHub](https://github.com/azimonti) |
 | :globe_with_meridians: My Website | [Go to my website](https://www.azimonti.com/) |
 | :writing_hand: My Blog | [Go to my blog](https://www.azimonti.com/blog/) |
 | :tv: My YouTube Channel | [Go to YouTube](https://www.youtube.com/@azimonti) |
 | :email: Contact me | info@azimonti.com |
+
+## 自己紹介
+
+私は25年以上のコンピュータプログラミングの経験を持つ航空宇宙エンジニアです。数学、物理学、工学など、さまざまな分野に専門知識を持っています。
+
+キャリアを通じて、数値シミュレーションを専門としており、**Fortran**や**C++**から始め、現在も積極的に使用し熟達しています。長年にわたり、新しいツールに適応し、データ分析と可視化のために**Python**を主要な言語として使用するようになりました。しかし、プロジェクトの主要な計算は、依然としてC++とFortranの効率性と精度によって支えられています。
+
+## 専門能力
+
+- **数値シミュレーション：** 特に航空宇宙分野における複雑なシステムの数値モデルの開発と実装に豊富な経験があります。物理的な問題を計算の枠組みに変換する高度な能力を有しています。
+
+- **プログラミング言語：** パフォーマンスが重要な計算を管理するために、FortranとC++に深い専門知識があります。また、データ分析と可視化のためにPythonを活用し、最新のツールと従来の高性能言語を組み合わせています。
+
+- **数学と物理学：** 正確なモデルとシミュレーションを設計するために必要な応用数学と物理学の高度な知識を持っています。
+
+- **データ分析と可視化：** Pythonの豊富なライブラリ（NumPy、SciPy、Matplotlibなど）を活用し、大規模なデータセットを効率的に処理・可視化して、シミュレーション結果の洞察を深めています。
+
+## 追加の技能
+
+10年以上前にRubyから始め、現在はNode.jsに重点を置くことで、ウェブデザインとフルスタック開発のスキルも磨いてきました。この過程で、フロントエンドとバックエンドの両方の技術、特にAPIの複雑さを深く理解することができました。その結果、統合された効率的なウェブアプリケーションを作成し、シームレスなユーザーエクスペリエンスを提供する能力を身につけました。
+
+**Node.js**と**JavaScript**に精通しており、スケーラブルで高性能なバックエンドシステムを開発すると同時に、レスポンシブでダイナミックなフロントエンドデザインを実現できます。
+
+## 研究および興味の分野
+
+- **量子力学および古典力学のシミュレーション：** 量子力学、古典力学、静力学、宇宙力学における物理および工学的な現象をモデル化するシミュレーションの作成に注力しています。これらのシミュレーションは、複雑な物理システムや工学的応用への洞察を提供することを目的としています。
+
+- **人工知能と機械学習：** 最先端のアルゴリズムやニューラルネットワークのアーキテクチャに焦点を当て、高度なAI技術の探求に強い関心を持っています。私の取り組みは、AIの研究と開発の限界を押し広げることを目指しています。
+
+- **AIの実践的応用：** 自動化、データ分析、知能システムの開発に特に重点を置き、AI技術を現実世界の課題に適用することに専念しています。これらのシステムは、人間の意思決定を再現するだけでなく、複雑なシナリオに対して創造的で効率的な解決策を提供します。
+
+## 進行中のプロジェクト
+
+- **量子もつれシミュレーション**：量子コンピュータのもつれ状態のシミュレーション [こちら](https://github.com/azimonti/quantum-entanglement-simulation)。
+
+- **シュレーディンガー方程式シミュレーション**：一次元および二次元におけるシュレーディンガー方程式の数値シミュレーション [こちら](https://github.com/azimonti/schrodinger-equation-simulation)。
+
+- **軌道シミュレーション**：多体系の軌道数値シミュレーション [こちら](https://github.com/azimonti/orbits-simulation)。
+
+- **MNIST分類**：確率的勾配降下法（SGD）と遺伝的アルゴリズム（GA）を用いたMNIST数字分類のためのニューラルネットワークの訓練 [こちら](https://github.com/azimonti/MNIST-classification)。
+
+## 連絡先
+
+| クイックリンク               |                     |
+|:-----------------------------|:--------------------|
+| :man_office_worker: 私のLinkedInプロフィール | [LinkedInへ](https://www.linkedin.com/in/marcoazimonti/) |
+|:books: 私のポートフォリオ | [ポートフォリオへ](https://www.azimonti.com/ja/portfolio.html) |
+| :man_technologist: 私のGitHubプロフィール | [GitHubへ](https://github.com/azimonti) |
+| :globe_with_meridians: 私のウェブサイト | [ウェブサイトへ](https://www.azimonti.com/ja/index.html) |
+| :writing_hand: 私のブログ | [ブログへ](https://www.azimonti.com/blog/) |
+| :tv: 私のYouTubeチャンネル | [YouTubeへ](https://www.youtube.com/@azimonti) |
+| :email: お問い合わせ | info@azimonti.com |
