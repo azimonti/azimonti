@@ -42,6 +42,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **MNIST-classification**: neural network training for MNIST digit classification using SGD and GA [here](https://github.com/azimonti/MNIST-classification).
 
+- **path-finder-neural-networks**: OpenGL application finding the shortest path using neural networks and genetic algorithms [here](https://github.com/azimonti/path-finder-neural-networks).
+
 ## Connect with Me
 
 |  Quick Links              |                                           |
@@ -93,6 +95,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 - **軌道シミュレーション**：多体系の軌道数値シミュレーション [こちら](https://github.com/azimonti/orbits-simulation)。
 
 - **MNIST分類**：確率的勾配降下法（SGD）と遺伝的アルゴリズム（GA）を用いたMNIST数字分類のためのニューラルネットワークの訓練 [こちら](https://github.com/azimonti/MNIST-classification)。
+
+- **ニューラルネットワークを使用した経路探索**: ニューラルネットワークと遺伝的アルゴリズムを使用して最短経路を見つけるOpenGLアプリケーション [こちら](https://github.com/azimonti/path-finder-neural-networks)。
 
 ## 連絡先
 
