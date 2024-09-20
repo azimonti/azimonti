@@ -1,4 +1,4 @@
-[自己紹介はこちら](#自己紹介) | [専門能力はこちら](#専門能力) | [追加の技能はこちら](#追加の技能) 
+[自己紹介はこちら](#自己紹介) | [専門能力はこちら](#専門能力) | [追加の技能はこちら](#追加の技能)
 
 [研究および興味の分野はこちら](#研究および興味の分野) |[進行中のプロジェクトはこちら](#進行中のプロジェクト) | [連絡先はこちら](#連絡先)
 
@@ -6,7 +6,7 @@
 
 I am an Aerospace Engineer with over 25 years of experience in computer programming. My expertise spans across various fields, including mathematics, physics, and engineering.
 
-Throughout my career, I have specialized in numerical simulation, beginning with **Fortran** and **C++**, which I still actively use and master. Over the years, I have adapted to newer tools, and **Python** has become my go-to language for data analysis and visualization. However, the core computations in my projects are still powered by the efficiency and precision of C++ and Fortran.
+Throughout my career, I specialized in numerical simulation, beginning with **Fortran** and **C++**, which I still actively use and master. Over the years, I expanded using different tools, and **Python** has become my go-to language for data analysis and visualization. However, the core computations in my projects are still powered by the efficiency and precision of C++ and Fortran.
 
 ## Core Competencies
 
@@ -20,7 +20,7 @@ Throughout my career, I have specialized in numerical simulation, beginning with
 
 ## Additional Skills
 
-I have also refined my skills in web design and full stack development, starting with Ruby over 10 years ago before shifting my focus to Node.js. This journey has equipped me with a deep understanding of both front-end and back-end technologies, including the intricacies of APIs, enabling me to create cohesive, efficient web applications that deliver seamless user experiences.
+In parallel, I also refined my skills in web design and full stack development, starting with Ruby over 10 years ago before shifting my focus to Node.js. This journey has equipped me with a deep understanding of both front-end and back-end technologies, including the intricacies of APIs, enabling me to create cohesive, efficient web applications that deliver seamless user experiences.
 
 I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalable and performant back-end systems while ensuring responsive, dynamic front-end designs.
 
@@ -33,6 +33,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 - **Practical Applications of AI:** Dedicated to applying AI technologies to real-world challenges, with a particular emphasis on automation, data analysis, and the development of intelligent systems. These systems not only replicate human decision-making but also offer creative and efficient solutions to complex scenarios.
 
 ## Projects
+
+- **personal-website**: A custom-built, responsive website featuring custom JavaScript libraries, dynamic content generation, and high coding standards [here](https://www.azimonti.com/index.html).
 
 - **quantum-entanglement-simulation**: entangled state of a quantum computer simulation [here](https://github.com/azimonti/quantum-entanglement-simulation).
 
@@ -87,6 +89,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 - **AIの実践的応用：** 自動化、データ分析、知能システムの開発に特に重点を置き、AI技術を現実世界の課題に適用することに専念しています。これらのシステムは、人間の意思決定を再現するだけでなく、複雑なシナリオに対して創造的で効率的な解決策を提供します。
 
 ## プロジェクト
+
+- **個人ウェブサイト**：カスタムJavaScriptライブラリ、動的なコンテンツ生成、高いコーディング基準を備えた、独自に構築されたレスポンシブウェブサイト [こちら](https://www.azimonti.com/ja/index.html)。
 
 - **量子もつれシミュレーション**：量子コンピュータのもつれ状態のシミュレーション [こちら](https://github.com/azimonti/quantum-entanglement-simulation)。
 
