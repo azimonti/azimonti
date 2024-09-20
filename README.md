@@ -32,7 +32,7 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **Practical Applications of AI:** Dedicated to applying AI technologies to real-world challenges, with a particular emphasis on automation, data analysis, and the development of intelligent systems. These systems not only replicate human decision-making but also offer creative and efficient solutions to complex scenarios.
 
-## Ongoing Projects
+## Projects
 
 - **quantum-entanglement-simulation**: entangled state of a quantum computer simulation [here](https://github.com/azimonti/quantum-entanglement-simulation).
 
@@ -86,7 +86,7 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **AIの実践的応用：** 自動化、データ分析、知能システムの開発に特に重点を置き、AI技術を現実世界の課題に適用することに専念しています。これらのシステムは、人間の意思決定を再現するだけでなく、複雑なシナリオに対して創造的で効率的な解決策を提供します。
 
-## 進行中のプロジェクト
+## プロジェクト
 
 - **量子もつれシミュレーション**：量子コンピュータのもつれ状態のシミュレーション [こちら](https://github.com/azimonti/quantum-entanglement-simulation)。
 
