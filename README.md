@@ -46,6 +46,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **path-finder-neural-networks**: OpenGL application finding the shortest path using neural networks and genetic algorithms [here](https://github.com/azimonti/path-finder-neural-networks).
 
+- **GPT-playground**: Generative Pre-trained Transformer (GPT) implementation [here](https://github.com/azimonti/gpt-playground).
+
 ## Connect with Me
 
 |  Quick Links              |                                           |
@@ -101,6 +103,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 - **MNIST分類**：確率的勾配降下法（SGD）と遺伝的アルゴリズム（GA）を用いたMNIST数字分類のためのニューラルネットワークの訓練 [こちら](https://github.com/azimonti/MNIST-classification)。
 
 - **ニューラルネットワークを使用した経路探索**: ニューラルネットワークと遺伝的アルゴリズムを使用して最短経路を見つけるOpenGLアプリケーション [こちら](https://github.com/azimonti/path-finder-neural-networks)。
+
+- **GPTプレイグラウンド**: 事前学習型生成トランスフォーマー (GPT) 実装 [こちら](https://github.com/azimonti/gpt-playground).
 
 ## 連絡先
 
