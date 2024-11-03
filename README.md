@@ -48,6 +48,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **GPT-playground**: Generative Pre-trained Transformer (GPT) implementation [here](https://github.com/azimonti/gpt-playground).
 
+- **HTML5 sandbox**: Collection of responsive HTML5 apps for experimenting with web-based interfaces, user interactivity, and adaptive layouts [here](https://www.azimonti.com/apps/applications.html).
+
 ## Connect with Me
 
 |  Quick Links              |                                           |
@@ -104,7 +106,9 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **ニューラルネットワークを使用した経路探索**: ニューラルネットワークと遺伝的アルゴリズムを使用して最短経路を見つけるOpenGLアプリケーション [こちら](https://github.com/azimonti/path-finder-neural-networks)。
 
-- **GPTプレイグラウンド**: 事前学習型生成トランスフォーマー (GPT) 実装 [こちら](https://github.com/azimonti/gpt-playground).
+- **GPTプレイグラウンド**: 事前学習型生成トランスフォーマー (GPT) 実装 [こちら](https://github.com/azimonti/gpt-playground)。
+
+- **HTML5サンドボックス**: Webインターフェース、ユーザーインタラクティブ、アダプティブレイアウトを試すためのレスポンシブなHTML5アプリのコレクション [こちら](https://www.azimonti.com/ja/applications.html)。
 
 ## 連絡先
 
