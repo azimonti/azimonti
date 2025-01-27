@@ -34,7 +34,7 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 ## Projects
 
-- **personal-website**: A custom-built, responsive website featuring custom JavaScript libraries, dynamic content generation, and high coding standards [here](https://www.azimonti.com/index.html).
+- **personal-website**: A custom-built, responsive website featuring custom JavaScript libraries, dynamic content generation, and high coding standards [here](https://www.azimonti.com/).
 
 - **quantum-entanglement-simulation**: entangled state of a quantum computer simulation [here](https://github.com/azimonti/quantum-entanglement-simulation).
 
@@ -55,7 +55,7 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 |  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
 |:man_office_worker: My LinkedIn Profile | [Go to LinkedIn](https://www.linkedin.com/in/marcoazimonti/) |
-|:books: My Portfolio | [Go to my Portfolio](https://www.azimonti.com/portfolio.html) |
+|:books: My Portfolio | [Go to my Portfolio](https://www.azimonti.com/portfolio/) |
 | :man_technologist: My GitHub Profile | [Go to GitHub](https://github.com/azimonti) |
 | :globe_with_meridians: My Website | [Go to my website](https://www.azimonti.com/) |
 | :writing_hand: My Blog | [Go to my blog](https://www.azimonti.com/blog/) |
@@ -94,7 +94,7 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 ## プロジェクト
 
-- **個人ウェブサイト**：カスタムJavaScriptライブラリ、動的なコンテンツ生成、高いコーディング基準を備えた、独自に構築されたレスポンシブウェブサイト [こちら](https://www.azimonti.com/ja/index.html)。
+- **個人ウェブサイト**：カスタムJavaScriptライブラリ、動的なコンテンツ生成、高いコーディング基準を備えた、独自に構築されたレスポンシブウェブサイト [こちら](https://www.azimonti.com/ja/)。
 
 - **量子もつれシミュレーション**：量子コンピュータのもつれ状態のシミュレーション [こちら](https://github.com/azimonti/quantum-entanglement-simulation)。
 
@@ -115,9 +115,9 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 | クイックリンク               |                     |
 |:-----------------------------|:--------------------|
 | :man_office_worker: 私のLinkedInプロフィール | [LinkedInへ](https://www.linkedin.com/in/marcoazimonti/) |
-|:books: 私のポートフォリオ | [ポートフォリオへ](https://www.azimonti.com/ja/portfolio.html) |
+|:books: 私のポートフォリオ | [ポートフォリオへ](https://www.azimonti.com/ja/portfolio/) |
 | :man_technologist: 私のGitHubプロフィール | [GitHubへ](https://github.com/azimonti) |
-| :globe_with_meridians: 私のウェブサイト | [ウェブサイトへ](https://www.azimonti.com/ja/index.html) |
+| :globe_with_meridians: 私のウェブサイト | [ウェブサイトへ](https://www.azimonti.com/ja/) |
 | :writing_hand: 私のブログ | [ブログへ](https://www.azimonti.com/blog/) |
 | :tv: 私のYouTubeチャンネル | [YouTubeへ](https://www.youtube.com/@azimonti) |
 | :email: お問い合わせ | info@azimonti.com |
