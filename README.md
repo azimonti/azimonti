@@ -40,11 +40,15 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **schrodinger-equation-simulation**: Schrödinger equation numerical simulation in 1D and 2D [here](https://github.com/azimonti/schrodinger-equation-simulation).
 
+- **quantum-key-distribution-simulation**: Quantum Key Distribution (QKD) Simulation: simulate BB84 Protocol and Ekert Protocol [here](https://github.com/azimonti/quantum-key-distribution-simulation).
+
 - **orbits-simulation**: multi-body orbits numerical simulation [here](https://github.com/azimonti/orbits-simulation).
 
 - **MNIST-classification**: neural network training for MNIST digit classification using SGD and GA [here](https://github.com/azimonti/MNIST-classification).
 
 - **path-finder-neural-networks**: OpenGL application finding the shortest path using neural networks and genetic algorithms [here](https://github.com/azimonti/path-finder-neural-networks).
+
+- **todotxt-webapp**: a Progressive Web Application (PWA) for managing todo.txt tasks list [here](https://github.com/azimonti/todotxt-webapp).
 
 - **GPT-playground**: Generative Pre-trained Transformer (GPT) implementation [here](https://github.com/azimonti/gpt-playground).
 
@@ -100,11 +104,15 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **シュレーディンガー方程式シミュレーション**：一次元および二次元におけるシュレーディンガー方程式の数値シミュレーション [こちら](https://github.com/azimonti/schrodinger-equation-simulation)。
 
+- **量子鍵配送シミュレーション**: 量子鍵配送（QKD）シミュレーション：BB84プロトコルとエカートプロトコルをシミュレーション [こちら](https://github.com/azimonti/quantum-key-distribution-simulation)。
+
 - **軌道シミュレーション**：多体系の軌道数値シミュレーション [こちら](https://github.com/azimonti/orbits-simulation)。
 
 - **MNIST分類**：確率的勾配降下法（SGD）と遺伝的アルゴリズム（GA）を用いたMNIST数字分類のためのニューラルネットワークの訓練 [こちら](https://github.com/azimonti/MNIST-classification)。
 
 - **ニューラルネットワークを使用した経路探索**: ニューラルネットワークと遺伝的アルゴリズムを使用して最短経路を見つけるOpenGLアプリケーション [こちら](https://github.com/azimonti/path-finder-neural-networks)。
+
+- **Todo.txtのHTML5アプリ**: todo.txtタスクリストを管理するプログレッシブウェブアプリ[こちら](https://github.com/azimonti/todotxt-webapp)。
 
 - **GPTプレイグラウンド**: 事前学習型生成トランスフォーマー (GPT) 実装 [こちら](https://github.com/azimonti/gpt-playground)。
 
