@@ -40,6 +40,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **schrodinger-equation-simulation**: Schrödinger equation numerical simulation in 1D and 2D [here](https://github.com/azimonti/schrodinger-equation-simulation).
 
+- **squantum-key-distribution-simulation**: Quantum Key Distribution (QKD) Simulation: simulate BB84 Protocol and Ekert Protocol [here](https://github.com/azimonti/quantum-key-distribution-simulation).
+
 - **orbits-simulation**: multi-body orbits numerical simulation [here](https://github.com/azimonti/orbits-simulation).
 
 - **MNIST-classification**: neural network training for MNIST digit classification using SGD and GA [here](https://github.com/azimonti/MNIST-classification).
@@ -99,6 +101,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 - **量子もつれシミュレーション**：量子コンピュータのもつれ状態のシミュレーション [こちら](https://github.com/azimonti/quantum-entanglement-simulation)。
 
 - **シュレーディンガー方程式シミュレーション**：一次元および二次元におけるシュレーディンガー方程式の数値シミュレーション [こちら](https://github.com/azimonti/schrodinger-equation-simulation)。
+
+- **量子鍵配送シミュレーション**: 量子鍵配送（QKD）シミュレーション：BB84プロトコルとエカートプロトコルをシミュレーション [こちら](https://github.com/azimonti/quantum-key-distribution-simulation)。
 
 - **軌道シミュレーション**：多体系の軌道数値シミュレーション [こちら](https://github.com/azimonti/orbits-simulation)。
 
