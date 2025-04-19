@@ -66,6 +66,8 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 | :tv: My YouTube Channel | [Go to YouTube](https://www.youtube.com/@azimonti) |
 | :email: Contact me | info@azimonti.com |
 
+My signing GPG public key is C6AD65BABF17B3F3A2F9D7DD9DC46C04CD20DBC6.
+
 ## 自己紹介
 
 私は25年以上のコンピュータプログラミングの経験を持つ航空宇宙エンジニアです。数学、物理学、工学など、さまざまな分野に専門知識を持っています。
@@ -129,3 +131,5 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 | :writing_hand: 私のブログ | [ブログへ](https://www.azimonti.com/blog/) |
 | :tv: 私のYouTubeチャンネル | [YouTubeへ](https://www.youtube.com/@azimonti) |
 | :email: お問い合わせ | info@azimonti.com |
+
+私の署名用GPG公開鍵は C6AD65BABF17B3F3A2F9D7DD9DC46C04CD20DBC6 です。
