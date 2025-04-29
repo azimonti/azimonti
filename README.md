@@ -48,11 +48,17 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 
 - **path-finder-neural-networks**: OpenGL application finding the shortest path using neural networks and genetic algorithms [here](https://github.com/azimonti/path-finder-neural-networks).
 
+- **inverted-pendulum**: control feedback with linearization and neural networks for an inverted pendulum (single and on a cart) [here](https://github.com/azimonti/inverted-pendulum).
+
+- **lunar-lander**: physics-based lunar lander simulation in Python with manual play and neural network autoplay modes [here](https://github.com/azimonti/lunar-lander).
+
 - **todotxt-webapp**: a Progressive Web Application (PWA) for managing todo.txt tasks list [here](https://github.com/azimonti/todotxt-webapp).
+
+- **Chess PGN Viewer**: a Progressive Web Application (PWA) for viewing and analyzing chess games stored in Portable Game Notation (PGN) format [here](https://github.com/azimonti/chess-pgn-viewer).
 
 - **GPT-playground**: Generative Pre-trained Transformer (GPT) implementation [here](https://github.com/azimonti/gpt-playground).
 
-- **HTML5 sandbox**: Collection of responsive HTML5 apps for experimenting with web-based interfaces, user interactivity, and adaptive layouts [here](https://www.azimonti.com/apps/applications.html).
+- **HTML5 sandbox**: Collection of responsive HTML5 apps for experimenting with web-based interfaces, user interactivity, and adaptive layouts [here](https://www.azimonti.com/apps/).
 
 ## Connect with Me
 
@@ -114,11 +120,17 @@ My signing GPG public key is C6AD65BABF17B3F3A2F9D7DD9DC46C04CD20DBC6.
 
 - **ニューラルネットワークを使用した経路探索**: ニューラルネットワークと遺伝的アルゴリズムを使用して最短経路を見つけるOpenGLアプリケーション [こちら](https://github.com/azimonti/path-finder-neural-networks)。
 
+- **倒立振り子**:（単独およびカート上）に対する線形化とニューラルネットワークを用いた制御フィードバック [こちら](https://github.com/azimonti/inverted-pendulum)。
+
+- **ルナランダー**: 物理ベースのシミュレーションで、手動プレイモードとニューラルネットワークによる自動プレイモード [こちら](https://github.com/azimonti/lunar-lander)。
+
 - **Todo.txtのHTML5アプリ**: todo.txtタスクリストを管理するプログレッシブウェブアプリ[こちら](https://github.com/azimonti/todotxt-webapp)。
+
+- **チェスPGNビューア**: ポータブルゲーム記法（PGN）形式で保存されたチェスの対局を閲覧・解析するためのプログレッシブウェブアプリケーション（PWA）[こちら](https://github.com/azimonti/chess-pgn-viewer)。
 
 - **GPTプレイグラウンド**: 事前学習型生成トランスフォーマー (GPT) 実装 [こちら](https://github.com/azimonti/gpt-playground)。
 
-- **HTML5サンドボックス**: Webインターフェース、ユーザーインタラクティブ、アダプティブレイアウトを試すためのレスポンシブなHTML5アプリのコレクション [こちら](https://www.azimonti.com/ja/applications.html)。
+- **HTML5サンドボックス**: Webインターフェース、ユーザーインタラクティブ、アダプティブレイアウトを試すためのレスポンシブなHTML5アプリのコレクション [こちら](https://www.azimonti.com/ja/apps/)。
 
 ## 連絡先
 
