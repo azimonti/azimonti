@@ -70,6 +70,7 @@ I am proficient in **Node.js** and **JavaScript**, allowing me to develop scalab
 | :globe_with_meridians: My Website | [Go to my website](https://www.azimonti.com/) |
 | :writing_hand: My Blog | [Go to my blog](https://www.azimonti.com/blog/) |
 | :tv: My YouTube Channel | [Go to YouTube](https://www.youtube.com/@azimonti) |
+| 𝕏 My X Profile | [Follow me on X](https://x.com/azimonti2) |
 | :email: Contact me | info@azimonti.com |
 
 My signing GPG public key is C6AD65BABF17B3F3A2F9D7DD9DC46C04CD20DBC6.
@@ -142,6 +143,7 @@ My signing GPG public key is C6AD65BABF17B3F3A2F9D7DD9DC46C04CD20DBC6.
 | :globe_with_meridians: 私のウェブサイト | [ウェブサイトへ](https://www.azimonti.com/ja/) |
 | :writing_hand: 私のブログ | [ブログへ](https://www.azimonti.com/blog/) |
 | :tv: 私のYouTubeチャンネル | [YouTubeへ](https://www.youtube.com/@azimonti) |
+| 𝕏 私のXプロフィール | [Xへ](https://x.com/azimonti2) |
 | :email: お問い合わせ | info@azimonti.com |
 
 私の署名用GPG公開鍵は C6AD65BABF17B3F3A2F9D7DD9DC46C04CD20DBC6 です。
